@@ -1,0 +1,14 @@
+{
+  "CHIPS": {
+    "cgfirebase": {
+      "apiKey": "AIzaSyA0HSeym_asfyPwTvIQ4x8Xi2plj6r3Myk",
+      "authDomain": "chipsiot.firebaseapp.com",
+      "projectId": "chipsiot",
+      "databaseURL": "https://chipsiot-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "storageBucket": "chipsiot.appspot.com",
+      "messagingSenderId": "747122162542",
+      "appId": "1:747122162542:web:943c827f7cb72548de1f7f"
+    },
+    "serverList": []
+  }
+}

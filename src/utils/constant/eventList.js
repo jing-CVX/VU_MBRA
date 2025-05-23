@@ -1,0 +1,11 @@
+/**
+ * Defined all event ---
+ */
+export default {
+  LOGIN_SUCCESS: 'LOGIN_SUCCESS',
+  LOGOUT: 'LOGOUT',
+  CONNECT_SERVER: 'CONNECT_SERVER',
+  SEVER_MQTT_MSG: 'SEVER_MQTT_MSG',
+  SYS_MSG: 'SYS_MSG',
+  EXPIRE_SESSION: 'EXPIRE_SESSION'
+}

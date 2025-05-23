@@ -1,0 +1,6 @@
+﻿export default {
+    USER_TYPE_ADMIN: '3',
+    USER_TYPE_AGENT_RESOURCE: '2',
+    USER_TYPE_AGENT_FARMING: '1',
+    USER_TYPE_FARMER: '0',
+}
